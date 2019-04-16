@@ -3,6 +3,13 @@ A very simple lua_module calculator made with only 40 line of C code and is for 
 ```
 (number) (operator) (number)
 ```
+example
+```
+calc("66+33")
+calc("100/95")
+calc("3.142*66")
+calc("88-13")
+```
 calclua only support addition, multiplication, division and substraction. 
 
 **Accuracy of this module is never tested and must never be used in serious work/production.**
