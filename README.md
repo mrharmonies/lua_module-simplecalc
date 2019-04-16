@@ -1,5 +1,5 @@
 # lua_module-simplecalc
-A very simple lua_module calculator made with only 48 line of ANSI C code for learning purpose. The code demonstrating uses of typedef, struct, and simple string parsing in C programming and how to use Lua C API. calclua accept string expression in this format:
+A very simple lua_module calculator made with only 40 line of ANSI C code for learning purpose. The code demonstrating uses of typedef, struct, and simple string parsing in C programming and how to use Lua C API. calclua accept string expression in this format:
 ```
 (number) (operator) (number)
 ```
