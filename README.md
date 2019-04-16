@@ -27,7 +27,7 @@ Just compile the main source file ```calclua.c``` with your favorite C compiler,
 # license
 MIT License
 
-Copyright (c) 2018 Mohd Kholid Yaacob
+Copyright (c) 2019 Mohd Kholid Yaacob
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
